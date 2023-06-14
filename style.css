@@ -152,10 +152,10 @@ body{
 }
 .footer-links a{
     text-decoration: none;
-    color: white;
+    color: #B9B9B9;
 }
 .social a{
-    color: #FFFFFF;
+    color: #B9B9B9;
     margin: 1%;
 }
 /* Media Query  */
