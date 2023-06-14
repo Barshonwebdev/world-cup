@@ -43,6 +43,6 @@ body{
 }
 
 /* Media Query  */
-@media only screen and (min-width:668px) amd (max-width:992px) {
+@media only screen and (min-width:668px) and (max-width:992px) {
     
 }
