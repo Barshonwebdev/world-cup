@@ -152,8 +152,10 @@ body{
     }
     .nav-link{
         padding: 0%;
-        width: 120px;
+        width: 160px;
         border-radius: 5px;
+        text-align: center;
+        height: 30px;
     }
 
     /* blogs section  */
