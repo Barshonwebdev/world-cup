@@ -17,8 +17,8 @@ body{
     border-radius: 30px;
 }
 .header-section:hover{
-    color: rgba(233, 197, 34, 0.897);
-    transition: 0.5s ease-in-out;
+    color: yellow;
+    transition:0.5s ease-in-out;
 }
 .header-section h1{
     font-size: 60px;
