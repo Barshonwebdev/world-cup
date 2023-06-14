@@ -86,10 +86,10 @@ body{
     column-gap: 5px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    margin-left: 20px;
+    margin-left: 50px;
 }
 .blogs .blog img{
-    width: 95%;
+    width: 100%;
 }
 /* Media Query  */
 
