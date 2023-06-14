@@ -115,7 +115,16 @@ body{
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
-
+/* match section  */
+.match{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.match img{
+    width: 100%;
+}
 /* view button  */
     .view-all{
         display: flex;
