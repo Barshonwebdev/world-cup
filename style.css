@@ -134,9 +134,7 @@ body{
         
     /* main section  */
     .main-container{
-            margin-top: 50px;
-            margin-left: 50px;
-            margin-right: 50px;
+            margin: 0;
     }
     .main{
         flex-direction: column;
@@ -161,6 +159,8 @@ body{
     /* blogs section  */
     .blogs{
         grid-template-columns: repeat(2,1fr);
+        margin: 0;
+        width: 100%;
     }
 }
 
