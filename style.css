@@ -41,3 +41,8 @@ body{
 .header-image img{
     width: 100%;
 }
+
+/* Media Query  */
+@media only screen and (min-width:668px) amd (max-width:992px) {
+    
+}
