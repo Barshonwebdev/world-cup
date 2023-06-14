@@ -82,14 +82,37 @@ body{
 
 /* blog section  */
 .blogs{
-    row-gap: 5px;
-    column-gap: 5px;
+    row-gap: 20px;
+    column-gap: 20px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     margin-left: 50px;
 }
+.blog{
+    border: 1px white;
+    box-shadow: 5px 5px 10px rgb(201, 200, 200);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
 .blogs .blog img{
     width: 100%;
+}
+.blog-details{
+    padding: 7%;
+}
+.blog-details a{
+    text-decoration: none;
+    color: black;
+    border: 1px black solid;
+    padding: 2%;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 /* Media Query  */
 
